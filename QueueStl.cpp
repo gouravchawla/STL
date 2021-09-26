@@ -23,16 +23,5 @@ int main()
 
     cout << "Last Element in Queue: " << Q.back() << endl;
     Sleep(1000);
-
-    // Q.pop();
-    // cout << "After Pop:" << endl;
-    // cout << "Remaining Elements in queue:" << endl;
-    // int size = Q.size();
-    // for (int i = 0; i < size; i++)
-    // {
-    //     cout << i << endl;
-    // }
-    // cout << endl;
-
     return 0;
 }
